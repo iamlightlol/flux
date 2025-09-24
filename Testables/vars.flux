@@ -1,0 +1,4 @@
+# Variable assignment test
+let a = 10
+let b = 20
+print("a+b =", a + b)
